@@ -1,1 +1,2 @@
 pandas==2.3.3
+imbalanced-learn==0.14.0
