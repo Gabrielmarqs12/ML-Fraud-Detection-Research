@@ -12,8 +12,30 @@ To run this notebook, some libraries must be installed
 
     `$ pip install -r requirements`
 
+## Usage
+
+a) Read the Paper (PDF): 
+
+`Fraudulent Transaction Detection - Gabriel Marques.pdf` - WIP
+
+b) Run the Jupyter Notebook:
+
+1. First unzip the dataset:
+
+`$ unzip data/raw/creditcard.zip`
+
+2. Run the notebook:
+
+`$ jupyter notebook`
+
+
 ## Authors
 Gabriel Marques
 
+## Copyright
+2026, Gabriel Marques
+
 ## References
+[3] Kaggle. (2019). Credit Card Fraud Detection. [Online] Available:
+
 **[Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)**
