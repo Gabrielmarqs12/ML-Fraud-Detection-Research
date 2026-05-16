@@ -6,7 +6,7 @@ Most payment fraud by value arose from credit transfers and card payments. More 
 
 Clone the project
 
-    `$ git clone https://github.com/`
+    `$ https://github.com/Gabrielmarqs12/ML-Fraud-Detection-Research.git`
 
 To run this notebook, some libraries must be installed
 
@@ -16,7 +16,7 @@ To run this notebook, some libraries must be installed
 
 a) Read the Paper (PDF): 
 
-`Fraudulent Transaction Detection - Gabriel Marques.pdf` - WIP
+[Fraudulent Transaction Detection - Gabriel Marques](https://github.com/Gabrielmarqs12/ML-Fraud-Detection-Research/blob/main/Fraudulent%20Transaction%20Detection%20-%20Gabriel%20Marques.pdf) - WIP
 
 b) Run the Jupyter Notebook:
 
